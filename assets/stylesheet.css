@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(40, 17, 90);
+    color: #fff;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #container {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  #timer {
+    text-align: end;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #choices {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+  }
+  
+  #result {
+    margin-top: 15px;
+    font-weight: -5;
+  }
+  
+   
+  button {
+    text-align: center;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #eae249;
+  }
+  
+  #score-form {
+    display: none;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  #submit {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #submit:hover {
+    background-color: #070b07;
+  }
+  
