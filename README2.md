@@ -23,16 +23,16 @@ ITS Done
 
 
 # Images
-![alt text](./assets/1.png)
-![alt text](./assets/2.png)
-![alt text](./assets/3.png)
-![alt text](./assets/4.png)
-![alt text](./assets/5.png)
+![alt text](../TheQuizChallenge2/assets/0.jpg)
+![alt text](../TheQuizChallenge2/assets/0.jpg)
+![alt text](../TheQuizChallenge2/assets/0.jpg)
+![alt text](../TheQuizChallenge2/assets/0.jpg)
+![alt text](../TheQuizChallenge2/assets/0.jpg)
 
 
 # Live URL 
 
-https://aiahmed01.github.io/week-3-challenge/
+https://aiahmed01.github.io/TheQuizChallenge2/
 
 # Github Link
-https://github.com/Aiahmed01/week-3-challenge
+https://github.com/Aiahmed01/TheQuizChallenge2
