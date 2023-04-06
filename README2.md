@@ -23,13 +23,12 @@ ITS Done
 
 
 # Images
-![alt text](/Users/Abdulla/Desktop/bootcamp-02-23/TheQuizChallenge2/assets/0.jpg)
-![alt text](/Users/Abdulla/Desktop/bootcamp-02-23/TheQuizChallenge2/assets/1.jpg)
-![alt text](/Users/Abdulla/Desktop/bootcamp-02-23/TheQuizChallenge2/assets/2.jpg)
-![alt text](/Users/Abdulla/Desktop/bootcamp-02-23/TheQuizChallenge2/assets/3.jpg)
-![alt text](/Users/Abdulla/Desktop/bootcamp-02-23/TheQuizChallenge2/assets/4.jpg)
-![alt text](/Users/Abdulla/Desktop/bootcamp-02-23/TheQuizChallenge2/assets/5.jpg)
-
+![alt text](./assets/0.jpg)
+![alt text](./assets/1.jpg)
+![alt text](./assets/2.jpg)
+![alt text](./assets/3.jpg)
+![alt text](./assets/4.jpg)
+![alt text](./assets/5.jpg)
 
 # Live URL 
 
